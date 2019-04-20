@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e69d7d7-9363-4164-9a56-199929c142bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/HTML.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/video_unboxing.html" beforeDir="false" afterPath="$PROJECT_DIR$/video_unboxing.html" afterDir="false" />
     </list>
@@ -24,10 +20,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="76" column="80" selection-start-line="76" selection-start-column="80" selection-end-line="76" selection-end-column="80" />
+            <state relative-caret-position="330">
+              <caret line="76" selection-start-line="76" selection-end-line="76" />
               <folding>
                 <element signature="e#2908#2912#0" expanded="true" />
+                <element signature="e#3973#3979#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -36,8 +33,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/video_unboxing.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="76" column="41" lean-forward="true" selection-start-line="76" selection-start-column="41" selection-end-line="76" selection-end-column="80" />
+            <state relative-caret-position="332">
+              <caret line="75" selection-start-line="75" selection-end-line="76" />
+              <folding>
+                <element signature="e#3958#3964#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -54,6 +54,9 @@
         <option value="$PROJECT_DIR$/base.html" />
       </list>
     </option>
+  </component>
+  <component name="PhpServers">
+    <servers />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="48" />
@@ -85,6 +88,9 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -116,7 +122,7 @@
       <workItem from="1555741519371" duration="610000" />
       <workItem from="1555743276107" duration="837000" />
       <workItem from="1555744130524" duration="13000" />
-      <workItem from="1555744191731" duration="1668000" />
+      <workItem from="1555744191731" duration="2463000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1555744747193</created>
@@ -132,11 +138,25 @@
       <option name="project" value="LOCAL" />
       <updated>1555745755184</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fix header">
+      <created>1555745867497</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1555745867497</updated>
+    </task>
+    <task id="LOCAL-00004" summary="video beres">
+      <created>1555745944778</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1555745944778</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3128000" />
+    <option name="totallyTimeSpent" value="3923000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="38" y="-5" width="1328" height="773" extended-state="6" />
@@ -169,22 +189,28 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="logo" />
-    <option name="LAST_COMMIT_MESSAGE" value="logo" />
+    <MESSAGE value="fix header" />
+    <MESSAGE value="video beres" />
+    <option name="LAST_COMMIT_MESSAGE" value="video beres" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/video_unboxing.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="76" column="41" lean-forward="true" selection-start-line="76" selection-start-column="41" selection-end-line="76" selection-end-column="80" />
+        <state relative-caret-position="332">
+          <caret line="75" selection-start-line="75" selection-end-line="76" />
+          <folding>
+            <element signature="e#3958#3964#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="76" column="80" selection-start-line="76" selection-start-column="80" selection-end-line="76" selection-end-column="80" />
+        <state relative-caret-position="330">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
           <folding>
             <element signature="e#2908#2912#0" expanded="true" />
+            <element signature="e#3973#3979#0" expanded="true" />
           </folding>
         </state>
       </provider>
